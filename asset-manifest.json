@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Clothing-Shop-App/static/css/main.8309f060.css",
+    "main.js": "/Clothing-Shop-App/static/js/main.12b4dee3.js",
+    "static/media/bg.jpg": "/Clothing-Shop-App/static/media/bg.873b3017452ee2f38c26.jpg",
+    "index.html": "/Clothing-Shop-App/index.html",
+    "main.8309f060.css.map": "/Clothing-Shop-App/static/css/main.8309f060.css.map",
+    "main.12b4dee3.js.map": "/Clothing-Shop-App/static/js/main.12b4dee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8309f060.css",
+    "static/js/main.12b4dee3.js"
+  ]
+}
